@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="pt-BR">
 
-You can use the [editor on GitHub](https://github.com/Clesio-Gue/Joker.html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+   <head>
+      <meta charset="utf-8">
+      <meta name="description" content="Pagina Sobre Coringa 2019">
+      <title> Coringa(2019)</title>
+   </head>
+   <body>
+      <h1>Sobre Coringa</h1>
+      
+      <img src= "https://upload.wikimedia.org/wikipedia/pt/6/63/Joker_%282019%29.jpg" width="310" height= "459" alt="Coringa">
+      
+      <h2>Descrição</h2>
+      <p>
+          Joker (no Brasil, Coringa) é um filme estadunidense de suspense psicológico de 2019,<br> dirigido por Todd Phillips, que co-escreveu o roteiro com Scott Silver. Baseado no<br> personagem de mesmo nome da DC Comics, o filme é estrelado por Joaquin Phoenix como o<br> Coringa. Joker é ambientado em 1981 e segue Arthur Fleck, um comediante de stand-up<br> fracassado que é levado à loucura e se envolve em uma vida de crime e caos em Gotham City.<br> Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Marc Maron, Bill Camp, Shea<br> Whigham, Glenn Fleshler, Douglas Hodge e Brian Tyree Henry, entre outros, aparecem<br> em papéis coadjuvantes. Produzido pela Village Roadshow Pictures, DC Films,<br> Sikelia Productions, Joint Effort Productions e Green Hat Films e distribuído pela<br> Warner Bros. Pictures, faz parte da DC Black, uma série de filmes baseados nos personagens<br> da DC separados do Universo Estendido DC. Não há relação com as outras<br> versões do personagem vistas anteriormente no cinema.[4]<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+          O desenvolvimento de um filme independente do Coringa começou em 2016 e foi confirmado em <br>agosto de 2017, depois que a Warner Bros. e a DC Films decidiram enfatizar a natureza<br> compartilhada do Universo Estendido DC. Phillips e Silver escreveram o roteiro <br>em 2017 inspirados nas obras de Martin Scorsese e no romance gráfico Batman: The<br> Killing Joke (1988). Scorsese foi ligado à produção no início da produção do filme, mas<br> deixou de lado devido a outras obrigações. Phoenix passou a se envolver com o projeto em<br> fevereiro de 2018, sendo escalado para o papel em julho, enquanto a maior parte do<br> elenco assinou seus contratos em agosto. As filmagens ocorreram entre setembro e<br> dezembro de 2018 em Nova Iorque, Jersey City e Newark. Joker foi o primeiro filme situado<br> no universo Batman a receber uma classificação indicativa para maiores de 18<br> anos pela Motion Picture Association of America devido ao seu conteúdo violento.<br>
 
-### Markdown
+          Joker estreou no 76º Festival Internacional de Cinema de Veneza em 31 de agosto de 2019,<br> quando recebeu o prêmio máximo do evento, o Leão de Ouro.[5] Foi lançado no Brasil e<br> em Portugal em 3 de outubro de 2019 e nos Estados Unidos em 4 de outubro. A recepção<br> do filme foi polarizada; enquanto a performance de Phoenix foi aclamada, o tom<br> sombrio, a forma como distúrbios psicológicos foram retratados e o uso da violência<br> receberam opiniões mais dividas.[6] O filme também gerou preocupação pela<br> possibilidade de inspirar violência no mundo real; por exemplo, o cinema onde ocorreu o<br> massacre em Aurora em 2012 durante a exibição de The Dark Knight Rises se recusou a exibir<br> o filme.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <h2>Enredo</h2>
+          <p>
+               Em 1981, Arthur Fleck é um homem que sofre de um problema neurológico que faz com que<br> ele ria em momentos inapropriados e, por isso, visita regularmente um serviço<br> de assistência social para adquirir remédios. Ele trabalha como um palhaço<br> prestando serviços para terceiros, enquanto mora com sua mãe, Penny, em<br> Gotham City. Arthur se relaciona com poucas pessoas até conhecer Sophie, uma<br> mãe solteira que vive no mesmo prédio que ele, a quem ele convida para<br> conhecer seu outro trabalho como comediante de stand-up.<br>
 
-```markdown
-Syntax highlighted code block
+               Depois que um grupo de crianças o atacam em um beco, um colega de trabalho de Arthur,<br> Randall, lhe empresta uma arma para sua proteção. Porém, durante uma apresentação<br> em um hospital para entreter crianças, a arma cai do seu bolso.<br> Arthur é demitido por isso e Randall mente dizendo que Arthur comprou a arma sozinho.<br> Voltando para casa de metrô, ele é agredido por três executivos da Wayne<br> Enterprises após estes pensarem que ele estava debochando da tentativa de assédio<br> deles a uma mulher. Ele atira nos dois primeiros em auto-defesa e persegue e executa o <br>terceiro. Os assassinatos geram uma série de protestos contra os ricos de Gotham<br> em que os manifestantes se fantasiam de palhaços tal como o assassino não<br> identificado.<br>
+          </p>
 
-# Header 1
-## Header 2
-### Header 3
+       <h2>Elenco</h2>
+          <p>
+               <li>Joaquin Phoenix como Arthur Fleck / Joker</li>
+               <li>Robert De Niro como Murray Franklin</li>
+               <li>Zazie Beetz como Sophie Dumond</li>
+               <li>Frances Conroy como Penny Fleck, mãe de Arthur</li>
+               <li>Brett Cullen como Thomas Wayne</li>
+               <li>Dante Pereira-Olson como Bruce Wayne</li>
+               <li>Douglas Hodge como Alfred Pennyworth</li>
+               <li>Glenn Fleshler como um comediante</li>
+               <li>Marc Maron como um agente</li>
+               <li>Bryan Callen</li>
+          </p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Clesio-Gue/Joker.html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        <h2>Informações</h2>
+          <p>
+               <a href="https://pt.wikipedia.org/wiki/Joker_(filme_de_2019)"target="_blank">https://pt.wikipedia.org/wiki/Joker_(filme_de_2019)</a>
+     
+          </p>
+          <center>
+          <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-66UnLMPz-OF2rR-MG5G3AlBvGHylDTbjrEbjv-_paoScu6dv" width="739" height="415" alt="Happy Face">
+          </center>
+          <!--Todas as informações foram copiadas do Wikipedia -->
+   </body>
+</html>
